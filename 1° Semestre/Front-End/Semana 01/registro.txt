@@ -1,0 +1,37 @@
+RELATÓRIO – Descobrindo como Configurar o Editor
+
+A empresa utilizava editores de texto básicos para criar páginas web, mas percebeu limitações no processo. A seguir, está a comparação entre um editor simples e um editor de código profissional.
+
+1. Formatação e Visualização
+
+No editor básico, o código aparece como texto comum, sem cores ou organização automática.
+
+No editor profissional, há destaque de cores  e indentação automática, facilitando a leitura.
+
+2. Autocompletar
+
+No editor simples, todo o código é digitado manualmente.
+
+No profissional, o sistema sugere e completa tags e comandos, tornando o trabalho mais rápido.
+
+3. Verificação de Erros
+
+O editor básico não aponta erros.
+
+O profissional identifica problemas no código em tempo real e ajuda na correção.
+
+4. Organização
+
+No editor simples, é difícil gerenciar vários arquivos.
+
+No profissional, é possível organizar pastas, usar abas e localizar trechos de código rapidamente.
+
+5. Integração com Outras Ferramentas
+
+Editores básicos não possuem integração com outras plataformas.
+
+Editores profissionais permitem integração com Git, extensões e terminal interno.
+
+Conclusão
+
+O editor profissional oferece mais produtividade, organização e segurança no desenvolvimento de sites, sendo a melhor escolha para a empresa.

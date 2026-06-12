@@ -1,0 +1,16 @@
+Pessoal,
+
+Sobre as novas funcionalidades:
+
+Recomendação de produtos personalizada: Back-end
+Deve ser implementada no back-end, pois utiliza dados do histórico de navegação e compras. Assim, garantimos segurança das informações, acesso ao banco de dados e melhor processamento dos algoritmos de recomendação.
+
+Validação do formulário de pagamento: Front-end
+A validação inicial deve ser feita no front-end para oferecer retorno imediato ao usuário e evitar envios com erros. Ainda assim, é importante manter validação no back-end por segurança.
+
+Resumo:
+Recomendação: Back-end
+Validação:  Front-end (com reforço no back-end)
+
+Atenciosamente,
+Letícia Oliveira Sá

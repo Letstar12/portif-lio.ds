@@ -1,0 +1,28 @@
+Código:
+
+-- Criar tabelas
+CREATE TABLE cliente (
+    id INT,
+    nome VARCHAR(50)
+);
+
+CREATE TABLE produto (
+    id INT,
+    nome VARCHAR(50),
+    preco DECIMAL(10,2)
+);
+
+CREATE TABLE pedido (
+    id INT,
+    id_cliente INT,
+    id_produto INT
+    
+);
+
+INSERT INTO cliente VALUES (1, 'LeLe');
+INSERT INTO produto VALUES (1, 'Bolo', 20.00);
+INSERT INTO pedido VALUES (1, 1, 1);
+
+SELECT * FROM cliente;
+SELECT * FROM produto;
+SELECT * FROM pedido;

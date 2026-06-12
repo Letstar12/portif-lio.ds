@@ -1,0 +1,61 @@
+Desafio
+Em grupo, escolham um dos temas a seguir para discutir:
+IA e a Arte: O impacto da IA no trabalho dos artistas e no
+conceito de autoria.
+
+A Inteligência Artificial está mudando a arte, pois pode ajudar artistas, mas também pode substituí-los e usar obras sem autorização. Isso gera dúvidas sobre quem é o autor da obra: a pessoa ou a IA. Mesmo assim, a arte humana continua única, pois envolve sentimentos reais, enquanto a IA apenas combina informações já existentes.
+
+Quais benefícios e oportunidades da IA Generativa
+especificamente para a área que você escolheu?
+
+ R: A IA generativa traz benefícios para a arte, como facilitar a criação, gerar ideias e permitir que mais pessoas criem
+
+
+Quais riscos, desafios e dilemas éticos podem surgir
+com o uso dessa tecnologia?
+
+ R:  Riscos, como a substituição de artistas, uso de obras sem autorização e dúvidas sobre autoria.
+
+
+O que podemos fazer, como sociedade (escolas,
+empresas e governo), para potencializar os benefícios
+e reduzir os impactos negativos do uso da IA? De que
+forma podemos garantir que ela seja aplicada de
+maneira ética, responsável e colaborativa?
+
+
+ R: Para reduzir esses problemas, a sociedade deve criar regras, proteger os direitos autorais e ensinar o uso consciente da tecnologia. Assim, a IA pode ser usada de forma ética, responsável e como apoio à criatividade humana.
+
+
+
+
+Vocês acham que a criatividade humana surge "do nada", ou ela
+é baseada em tudo que já vimos, lemos e vivemos?
+
+R:baseada em tudo que já vimos , lemos e vivemos, busca essas referências, mistura elas, transforma em algo novo
+
+
+Descrevam o processo mental para criar algo simples, como uma
+frase poética sobre o pôr do sol. Que conhecimentos vocês usam?
+
+R Se :já viu o céu laranja, rosa, dourado lembra da sensação (calma, fim do dia, reflexão); o cérebro associa as ideias
+
+pôr do sol , fim , descanso ,paz, cores , fogo ,pintura , luz e por fim vc escolhe palavras de emoção como por exemplo "O sol se despede pintando o céu com promessas de paz."
+
+
+Agora, a pergunta central: vocês acham que, se um computador
+pudesse processar uma quantidade gigantesca de informações
+(todos os livros, todas as imagens da internet), poderia aprender
+a "criar" também? Como isso funcionaria?
+
+Sim… MAS de um jeito diferente.
+
+Um computador (como uma IA tipo o ChatGPT) funciona assim, Ele aprende com MUITOS dados,, como livros, textos, imagens, músicas (no caso de outras IAs) Ele encontra padrões
+
+Por exemplo:
+
+“pôr do sol” aparece com palavras como “dourado”, “fim”, “paz”
+
+poesia costuma usar metáforas.
+
+Ele combina essas informações E gera algo novo

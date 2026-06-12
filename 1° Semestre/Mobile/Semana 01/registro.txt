@@ -1,0 +1,32 @@
+integrantes: Letícia Sá, Lucas V. e Julia
+
+Relatório Consolidado: Desenvolvimento Mobile
+1. Estrutura Técnica (O "Como fazer")
+
+A base de um aplicativo moderno e modular no Android utiliza:
+
+Activity: A janela principal e o ponto de entrada.
+
+Fragment: Subseções da interface (módulos).
+
+Vantagem: O uso de Fragments permite que seu app seja reutilizável e adaptável a diferentes telas (celulares e tablets), além de facilitar a troca de conteúdos (ex: mudar de "Tarefas" para "Horários") sem fechar o aplicativo.
+
+2. Comparativo Estratégico (Android vs. iOS)
+Critério	Android	iOS
+Linguagem	Kotlin / Java	Swift
+Fragmentação	Alta (Muitos aparelhos/telas)	Baixa (Ecossistema fechado)
+Custo Dev	Menor (R$ 25 taxa única Google)	Maior (R$ 99/ano Apple + exige Mac)
+Público	Maior alcance global e popularidade	Maior poder de compra e gasto em apps
+3. Decisão de Projeto: App para Universitários
+
+Para o seu novo app de produtividade, a recomendação estratégica é o Android First:
+
+Por que? Devido à maior popularidade e acessibilidade de preços para estudantes.
+
+Desafio: A fragmentação do Android exigirá mais testes em diferentes modelos de celular para garantir que o app não trave em aparelhos mais simples.
+
+Monetização: Se o objetivo fosse lucro rápido com vendas diretas, o iOS seria a escolha, mas para crescimento de base, o Android é o caminho ideal.
+
+Resumo Executivo
+
+O desenvolvimento mobile bem-sucedido equilibra código modular (Fragments) para lidar com a diversidade de aparelhos, com uma estratégia de mercado alinhada ao bolso do usuário. Para o público universitário, priorizamos o alcance do Android, usando uma arquitetura que suporte futuras expansões de forma leve e organizada.
